@@ -8,12 +8,13 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 
 ### 01 - Replicube Tutorial Projects
 
-| # | Puzzle | Code Size | Cycles |
-|:-:|--------|:---------:|:------:|
-| 1 | [The Very Basics](01-replicube-tutorial-projects/the-very-basics/) | 2 | 3.000 |
-| 2 | [Conditions May Apply](01-replicube-tutorial-projects/conditions-may-apply/) | 6 | 4.000 |
+| # | Puzzle | Code Size | Leaderboard | Cycles | Leaderboard | Date |
+|:-:|--------|:---------:|:-----------:|:------:|:-----------:|:----:|
+| 1 | [The Very Basics](01-replicube-tutorial-projects/the-very-basics/) | 2 | #1 | 3.000 | #1 | 2025-02-23 |
+| 2 | [Conditions May Apply](01-replicube-tutorial-projects/conditions-may-apply/) | 6 | #1 | 4.000 | #158 | 2025-02-23 |
+| 3 | [In Comparison](01-replicube-tutorial-projects/in-comparison/) | 11 | #200 | 7.000 | #7812 | 2025-02-23 |
 
-> 2 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 3 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 

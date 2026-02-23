@@ -4,9 +4,9 @@
 
 ![The Very Basics](solution.png)
 
-| Grid | Code Size | Cycles |
-|:----:|:---------:|:------:|
-| 7x7x7 | **2** | **3.000** |
+| Grid | Code Size | Leaderboard | Cycles | Leaderboard | Date |
+|:----:|:---------:|:-----------:|:------:|:-----------:|:----:|
+| 7x7x7 | **2** | #1 | **3.000** | #1 | 2025-02-23 |
 
 ## Solution
 

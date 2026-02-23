@@ -4,9 +4,9 @@
 
 ![Conditions May Apply](solution.png)
 
-| Grid | Code Size | Cycles |
-|:----:|:---------:|:------:|
-| 7x7x7 | **6** | **4.000** |
+| Grid | Code Size | Leaderboard | Cycles | Leaderboard | Date |
+|:----:|:---------:|:-----------:|:------:|:-----------:|:----:|
+| 7x7x7 | **6** | #1 | **4.000** | #158 | 2025-02-23 |
 
 ## Solution
 
