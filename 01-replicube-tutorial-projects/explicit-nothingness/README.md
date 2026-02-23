@@ -2,11 +2,14 @@
 
 > Carve out a quadrant of emptiness, let the rainbow fill the rest! ᕙ(⇀‸↼‶)ᕗ
 
+> [!TIP]
+> **#1** on the code size leaderboard!
+
 ![Explicit Nothingness](solution.png)
 
 | Grid | Code Size | Leaderboard | Cycles | Leaderboard | Date |
 |:----:|:---------:|:-----------:|:------:|:-----------:|:----:|
-| 7x7x7 | **10** | #1 | **5.673** | #8615 | 2025-02-23 |
+| 7x7x7 | **10** | 🏆 #1 | **5.673** | #8615 | 2025-02-23 |
 
 ## Solution
 

@@ -2,11 +2,14 @@
 
 > Top half DARKBLUE, bottom half ORANGE, solved with pure bit math! (¬‿¬)
 
+> [!TIP]
+> **#1** on the code size leaderboard!
+
 ![Conditions May Apply](solution.png)
 
 | Grid | Code Size | Leaderboard | Cycles | Leaderboard | Date |
 |:----:|:---------:|:-----------:|:------:|:-----------:|:----:|
-| 7x7x7 | **6** | #1 | **4.000** | #158 | 2025-02-23 |
+| 7x7x7 | **6** | 🏆 #1 | **4.000** | #158 | 2025-02-23 |
 
 ## Solution
 

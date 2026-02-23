@@ -2,11 +2,14 @@
 
 > Fill the entire cube with a single color. Welcome to Replicube! ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
+> [!TIP]
+> **#1** on both the code size and cycles leaderboards!
+
 ![The Very Basics](solution.png)
 
 | Grid | Code Size | Leaderboard | Cycles | Leaderboard | Date |
 |:----:|:---------:|:-----------:|:------:|:-----------:|:----:|
-| 7x7x7 | **2** | #1 | **3.000** | #1 | 2025-02-23 |
+| 7x7x7 | **2** | 🏆 #1 | **3.000** | 🏆 #1 | 2025-02-23 |
 
 ## Solution
 
