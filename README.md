@@ -2,7 +2,7 @@
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-13-gold?style=for-the-badge)
 ![Third Place Finishes](https://img.shields.io/badge/%F0%9F%A5%89%20third%20place%20finishes-1-cd7f32?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-48%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-49%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -104,8 +104,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | # | Puzzle | Code Size | Leaderboard | Cycles | Leaderboard | Date |
 |:-:|--------|:---------:|:-----------:|:------:|:-----------:|:----:|
 | 1 | [Mini Truck](07-game-ideas/mini-truck/) | 68 | #44 | 10.656 | #739 | 2026-02-24 |
+| 2 | [Octopus](07-game-ideas/octopus/) | 83 | #34 | 20.361 | #823 | 2026-02-24 |
 
-> 48 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 49 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
