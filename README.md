@@ -1,7 +1,7 @@
 # Replicube Solutions ✧
 
-![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-12-gold?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-21%2F100-blue?style=for-the-badge)
+![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-13-gold?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-22%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -48,8 +48,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 1 | [Strawberry Cake Slice](03-alice-creations-01/strawberry-cake-slice/) | 29 | #4 | 6.802 | #943 | 2026-02-23 |
 | 2 | [Basic Hourglass](03-alice-creations-01/basic-hourglass/) | 10 | 🏆 #1 | 6.395 | #911 | 2026-02-23 |
 | 3 | [Tiny Duck](03-alice-creations-01/tiny-duck/) | 74 | #70 | 12.825 | #3208 | 2026-02-23 |
+| 4 | [Stairwell](03-alice-creations-01/stairwell/) | 16 | 🏆 #1 | 11.901 | #8429 | 2026-02-23 |
 
-> 21 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 22 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 

@@ -1,0 +1,1 @@
+return z==0 and 7 or x*sign(z)==y and 2
