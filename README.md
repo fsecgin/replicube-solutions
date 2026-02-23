@@ -1,7 +1,7 @@
 # Replicube Solutions ✧
 
-![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-4-gold?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-4%2F100-blue?style=for-the-badge)
+![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-5-gold?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-5%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -13,12 +13,13 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 
 | # | Puzzle | Code Size | Leaderboard | Cycles | Leaderboard | Date |
 |:-:|--------|:---------:|:-----------:|:------:|:-----------:|:----:|
-| 1 | [The Very Basics](01-replicube-tutorial-projects/the-very-basics/) | 2 | 🏆 #1 | 3.000 | 🏆 #1 | 2025-02-23 |
-| 2 | [Conditions May Apply](01-replicube-tutorial-projects/conditions-may-apply/) | 6 | 🏆 #1 | 4.000 | #158 | 2025-02-23 |
-| 3 | [In Comparison](01-replicube-tutorial-projects/in-comparison/) | 11 | #200 | 7.000 | #7812 | 2025-02-23 |
-| 4 | [Explicit Nothingness](01-replicube-tutorial-projects/explicit-nothingness/) | 10 | 🏆 #1 | 5.673 | #8615 | 2025-02-23 |
+| 1 | [The Very Basics](01-replicube-tutorial-projects/the-very-basics/) | 2 | 🏆 #1 | 3.000 | 🏆 #1 | 2026-02-23 |
+| 2 | [Conditions May Apply](01-replicube-tutorial-projects/conditions-may-apply/) | 6 | 🏆 #1 | 4.000 | #158 | 2026-02-23 |
+| 3 | [In Comparison](01-replicube-tutorial-projects/in-comparison/) | 11 | #200 | 7.000 | #7812 | 2026-02-23 |
+| 4 | [Explicit Nothingness](01-replicube-tutorial-projects/explicit-nothingness/) | 10 | 🏆 #1 | 5.673 | #8615 | 2026-02-23 |
+| 5 | [Simple Quadrant](01-replicube-tutorial-projects/simple-quadrant/) | 12 | 🏆 #1 | 9.000 | #11358 | 2026-02-23 |
 
-> 4 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 5 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
