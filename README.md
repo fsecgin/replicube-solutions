@@ -2,7 +2,7 @@
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-13-gold?style=for-the-badge)
 ![Third Place Finishes](https://img.shields.io/badge/%F0%9F%A5%89%20third%20place%20finishes-1-cd7f32?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-30%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-31%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -65,8 +65,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 4 | [Tiled Room](04-alice-creations-02/tiled-room/) | 53 | #97 | 10.774 | #1365 | 2026-02-23 |
 | 5 | [Brick Wall](04-alice-creations-02/brick-wall/) | 63 | #56 | 9.907 | #2082 | 2026-02-23 |
 | 6 | [Puzzle Cube](04-alice-creations-02/puzzle-cube/) | 80 | #653 | 25.336 | #581 | 2026-02-23 |
+| 7 | [Cute Computer](04-alice-creations-02/cute-computer/) | 72 | #41 | 1.126 | #1126 | 2026-02-23 |
 
-> 30 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 31 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
