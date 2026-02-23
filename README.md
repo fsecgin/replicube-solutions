@@ -2,7 +2,7 @@
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-13-gold?style=for-the-badge)
 ![Third Place Finishes](https://img.shields.io/badge/%F0%9F%A5%89%20third%20place%20finishes-1-cd7f32?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-51%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-52%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -107,8 +107,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 2 | [Octopus](07-game-ideas/octopus/) | 83 | #34 | 20.361 | #823 | 2026-02-24 |
 | 3 | [Winter Hat](07-game-ideas/winter-hat/) | 47 | #52 | 22.698 | #387 | 2026-02-24 |
 | 4 | [Toy Tank](07-game-ideas/toy-tank/) | 56 | #187 | 23.041 | #902 | 2026-02-24 |
+| 5 | [Power Outlet](07-game-ideas/power-outlet/) | 85 | #54 | 21.810 | #1027 | 2026-02-24 |
 
-> 51 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 52 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
