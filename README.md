@@ -13,8 +13,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 1 | [The Very Basics](01-replicube-tutorial-projects/the-very-basics/) | 2 | #1 | 3.000 | #1 | 2025-02-23 |
 | 2 | [Conditions May Apply](01-replicube-tutorial-projects/conditions-may-apply/) | 6 | #1 | 4.000 | #158 | 2025-02-23 |
 | 3 | [In Comparison](01-replicube-tutorial-projects/in-comparison/) | 11 | #200 | 7.000 | #7812 | 2025-02-23 |
+| 4 | [Explicit Nothingness](01-replicube-tutorial-projects/explicit-nothingness/) | 10 | #1 | 5.673 | #8615 | 2025-02-23 |
 
-> 3 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 4 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
