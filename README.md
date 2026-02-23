@@ -1,7 +1,7 @@
 # Replicube Solutions ✧
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-11-gold?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-18%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-19%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -40,6 +40,14 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 7 | [Wooden Table](02-intro-challenges-1/wooden-table/) | 21 | #339 | 6.464 | #976 | 2026-02-23 |
 
 > 18 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+
+### 03 - Alice Creations 01
+
+| # | Puzzle | Code Size | Leaderboard | Cycles | Leaderboard | Date |
+|:-:|--------|:---------:|:-----------:|:------:|:-----------:|:----:|
+| 1 | [Strawberry Cake Slice](03-alice-creations-01/strawberry-cake-slice/) | 29 | #4 | 6.802 | #943 | 2026-02-23 |
+
+> 19 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 

@@ -1,0 +1,1 @@
+return z*z<2 and(y==-3 and 15 or x==-3 or y>2 or y==0 and 4 or 7)
