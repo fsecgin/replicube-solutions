@@ -1,7 +1,7 @@
 # Replicube Solutions ✧
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-5-gold?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-7%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-8%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -20,8 +20,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 5 | [Simple Quadrant](01-replicube-tutorial-projects/simple-quadrant/) | 12 | 🏆 #1 | 9.000 | #11358 | 2026-02-23 |
 | 6 | [3x3 Grid](01-replicube-tutorial-projects/3x3-grid/) | 19 | #21 | 5.992 | #967 | 2026-02-23 |
 | 7 | [Importance of END](01-replicube-tutorial-projects/importance-of-end/) | 53 | #35 | 13.251 | #547 | 2026-02-23 |
+| 8 | [Simple Sushi](01-replicube-tutorial-projects/simple-sushi/) | 20 | #541 | 9.520 | #1948 | 2026-02-23 |
 
-> 7 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 8 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
