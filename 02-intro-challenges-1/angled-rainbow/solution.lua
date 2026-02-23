@@ -1,0 +1,1 @@
+return z==0 and x+y+10

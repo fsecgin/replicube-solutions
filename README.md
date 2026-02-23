@@ -1,7 +1,7 @@
 # Replicube Solutions ✧
 
-![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-10-gold?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-16%2F100-blue?style=for-the-badge)
+![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-11-gold?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-17%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -36,8 +36,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 3 | [Big X](02-intro-challenges-1/big-x/) | 16 | 🏆 #1 | 9.073 | #1513 | 2026-02-23 |
 | 4 | [Hello, Modulo](02-intro-challenges-1/hello-modulo/) | 5 | 🏆 #1 | 4.000 | 🏆 #1 | 2026-02-23 |
 | 5 | [Checkerboard](02-intro-challenges-1/checkerboard/) | 14 | #36 | 4.800 | #7085 | 2026-02-23 |
+| 6 | [Angled Rainbow](02-intro-challenges-1/angled-rainbow/) | 10 | 🏆 #1 | 4.286 | #8941 | 2026-02-23 |
 
-> 16 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 17 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
