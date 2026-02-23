@@ -1,0 +1,1 @@
+return(y==1 or y<1 and x*x+z*z==8)and 15
