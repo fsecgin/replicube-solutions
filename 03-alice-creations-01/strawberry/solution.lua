@@ -1,0 +1,1 @@
+return y==2 and x*x+z*z<5 and 11 or(x*x+y*y+z*z<4 or x*y==1 or(y|z)==0 or x==0 and y==-2 and z==-1 or x==1 and z==1)and 4 or 7
