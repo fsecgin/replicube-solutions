@@ -2,7 +2,7 @@
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-13-gold?style=for-the-badge)
 ![Third Place Finishes](https://img.shields.io/badge/%F0%9F%A5%89%20third%20place%20finishes-1-cd7f32?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-45%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-46%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -94,8 +94,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 5 | [Tennis Racquet](06-sports/tennis-racquet/) | 55 | #33 | 13.484 | #1516 | 2026-02-23 |
 | 6 | [Basketball Hoop](06-sports/basketball-hoop/) | 77 | #59 | 17.761 | #2129 | 2026-02-23 |
 | 7 | [Bowling](06-sports/bowling/) | 60 | #19 | 11.465 | #391 | 2026-02-24 |
+| 8 | [8-Ball](06-sports/8-ball/) | 38 | #14 | 10.397 | #787 | 2026-02-24 |
 
-> 45 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 46 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
