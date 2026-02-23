@@ -1,7 +1,7 @@
 # Replicube Solutions ✧
 
-![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-5-gold?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-11%2F100-blue?style=for-the-badge)
+![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-6-gold?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-12%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -26,6 +26,14 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | 11 | [Variable Outcomes](01-replicube-tutorial-projects/variable-outcomes/) | 30 | #66 | 15.051 | #1113 | 2026-02-23 |
 
 > 11 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+
+### 02 - Intro Challenges 1
+
+| # | Puzzle | Code Size | Leaderboard | Cycles | Leaderboard | Date |
+|:-:|--------|:---------:|:-----------:|:------:|:-----------:|:----:|
+| 1 | [Staircase](02-intro-challenges-1/staircase/) | 5 | 🏆 #1 | 5.000 | #7548 | 2026-02-23 |
+
+> 12 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
