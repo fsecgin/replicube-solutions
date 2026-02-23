@@ -1,0 +1,1 @@
+return x*x<2 and(y==-1 and z*z<2 or y==2 and z==-1 or x~=0 and(y<-1 and z*z==1 or z==-1 and y<2))and 8
