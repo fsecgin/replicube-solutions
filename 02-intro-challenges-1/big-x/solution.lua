@@ -1,0 +1,1 @@
+return x*x*2==y*y+z*z and 3
