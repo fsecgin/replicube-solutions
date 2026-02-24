@@ -2,7 +2,7 @@
 
 ![First Place Finishes](https://img.shields.io/badge/%F0%9F%8F%86%20first%20place%20finishes-13-gold?style=for-the-badge)
 ![Third Place Finishes](https://img.shields.io/badge/%F0%9F%A5%89%20third%20place%20finishes-1-cd7f32?style=for-the-badge)
-![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-59%2F100-blue?style=for-the-badge)
+![Puzzles Solved](https://img.shields.io/badge/puzzles%20solved-60%2F100-blue?style=for-the-badge)
 
 Solutions and writeups for [Replicube](https://store.steampowered.com/app/3401490/Replicube/), an open-ended programming puzzle game about writing Lua code to replicate 3D voxel objects.
 
@@ -129,8 +129,9 @@ Every puzzle has two leaderboards: **code size** and **cycles** (execution effic
 | # | Puzzle | Code Size | Leaderboard | Cycles | Leaderboard | Date |
 |:-:|--------|:---------:|:-----------:|:------:|:-----------:|:----:|
 | 1 | [Improbable Tower](09-more-game-ideas/improbable-tower/) | 49 | #148 | 17.558 | #1046 | 2026-02-24 |
+| 2 | [Clever Disguise](09-more-game-ideas/clever-disguise/) | 110 | #143 | 15.860 | #354 | 2026-02-24 |
 
-> 59 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
+> 60 / 100 puzzles solved ꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱
 
 ## How Replicube works
 
